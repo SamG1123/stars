@@ -1,0 +1,4 @@
+(executable
+ (public_name stars)
+ (name main)
+ (libraries claudius tsdl))
